@@ -1,32 +1,91 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Yaswanth Reddy – Analytics Portfolio
 
+Welcome to my personal analytics portfolio.
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+This repository contains the source code for my portfolio website, which showcases my
+skills, projects, and experience across **Data Analytics, Business Analytics, and BI** domains.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+🌐 **Live Portfolio:**  
+https://yaswanthreddy28.github.io/yaswanthreddy28/
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## 👋 About Me
 
+I am an analyst with **2.4+ years of analytical experience** and **3.8+ years in IT**,
+focused on transforming raw data into meaningful business insights.
 
-Credits:
+I work extensively with:
+- SQL for data querying and analysis
+- Excel for analysis, reporting, and automation
+- Power BI for interactive dashboards and KPI tracking
+- Python for data cleaning, analysis, and exploratory data analysis (EDA)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## 🧠 What This Portfolio Contains
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+The website highlights:
+- My core analytics skill set
+- Direct links to real-world projects hosted on GitHub
+- A downloadable resume
+- A contact form for professional inquiries
+
+Each skill section on the site links to dedicated GitHub repositories
+containing hands-on projects and analyses.
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- HTML5UP (Forty theme)
+- GitHub Pages for deployment
+- Formspree for contact form handling
+
+---
+
+## 📁 Project Navigation
+
+Projects are organized by skill area:
+
+- **SQL Projects** – Data analysis using joins, CTEs, window functions, and aggregations  
+- **Excel Projects** – Data cleaning, analysis, reporting, and dashboards  
+- **Power BI Projects** – Interactive dashboards and business insights  
+- **Python Projects** – Data cleaning, EDA, and analytical workflows  
+
+👉 Click on any skill on the website to explore related projects.
+
+---
+
+## 📄 Resume
+
+My resume is available directly from the portfolio website and opens in a new tab
+for easy access.
+
+---
+
+## 📬 Contact
+
+I’m open to opportunities across:
+- Data Analyst
+- Business Analyst
+- Analytics roles
+
+You can reach me via:
+- Portfolio contact form
+- LinkedIn (linked on the website)
+- GitHub
+
+---
+
+## 🚀 Purpose of This Portfolio
+
+This portfolio is designed to:
+- Demonstrate practical, hands-on analytics skills
+- Showcase problem-solving and analytical thinking
+- Provide clear evidence of project-based experience
+
+Thank you for taking the time to review my work.
