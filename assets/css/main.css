@@ -3950,3 +3950,18 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+.project-hint {
+  font-size: 0.85em;
+  margin-top: 0.5em;
+  opacity: 0.75;
+  font-style: italic;
+  transition: opacity 0.3s ease;
+}
+
+/* Optional hover effect */
+a:hover .project-hint,
+.section:hover .project-hint {
+  opacity: 1;
+  font: optional;
+}
